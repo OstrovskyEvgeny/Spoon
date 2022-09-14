@@ -3,7 +3,7 @@
 body {
     margin: auto;
     font-family: 'Libre Franklin', sans-serif;
-    /* overflow: hidden; */
+    width: 100vw;
 }
 
 .firstBox {
